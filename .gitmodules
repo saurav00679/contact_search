@@ -1,0 +1,6 @@
+[submodule "contact_back_end"]
+	path = contact_back_end
+	url = https://github.com/saurav00679/contact_back_end
+[submodule "contact_front_end"]
+	path = contact_front_end
+	url = https://github.com/saurav00679/contact_front_end
