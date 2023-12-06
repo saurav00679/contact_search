@@ -14,8 +14,8 @@ I am using Rack-cors gem to establish cross origin api requests.
 
 Here attaching some pictures.
 Laptop view:
-<img width="1440" alt="Screenshot 2023-12-06 at 10 15 05 AM" src="https://github.com/saurav00679/contact_search/assets/43717443/9e06ec21-b2a8-470a-b5d5-c9e3301512f5">
 <img width="1431" alt="Screenshot 2023-12-06 at 10 14 45 AM" src="https://github.com/saurav00679/contact_search/assets/43717443/faa71b7b-b9ab-4cb7-a594-5621325331cb">
+<img width="1440" alt="Screenshot 2023-12-06 at 10 15 05 AM" src="https://github.com/saurav00679/contact_search/assets/43717443/9e06ec21-b2a8-470a-b5d5-c9e3301512f5">
 <img width="1433" alt="Screenshot 2023-12-06 at 10 16 30 AM" src="https://github.com/saurav00679/contact_search/assets/43717443/4539a720-c01b-454d-a256-b7fe3f2ef20c">
 
 Mobile view
